@@ -1,1 +1,2 @@
 Hallo, das ist ein Test.
+Vorbereitung für Commit Nr. 2
